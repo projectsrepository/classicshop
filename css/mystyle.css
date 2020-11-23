@@ -1,0 +1,69 @@
+        
+				
+		
+		.bg-cover {
+            background-attachment: static;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .jumbotron {
+            margin-bottom: 0;
+			background-color: rgb(108, 117, 125); /* For browsers that do not support gradients */
+			background-image: linear-gradient(to bottom, gray 0 20%, rgb(108, 117, 125) 20% 100% );
+			padding-top: 10px;
+			padding-bottom: 10px;
+						
+        }
+		
+		.btn-success {
+			background-color: darkorange;			
+			
+		}
+		
+		
+		
+		.fontclass {
+            font-family: black chancery, times new roman;
+        }
+		
+		.col-sm-8 {
+            background-color: white;
+        }
+
+        .col-sm-4 {
+            background-color: rgb(240, 240, 240);
+        }
+
+        .img-thumbnail {
+            box-shadow: 10px 10px 5px grey;
+        }
+		h1 {
+            font-family: Georgia, Verdana, serif;
+            font-variant: small-caps;
+        }
+
+		h2 {
+			font-family:  Georgia, Arial;
+			color: rgb(180, 100, 0);
+			
+		}
+		h3, h4 {
+			font-family:  Georgia, Arial;
+			color: darkblue;
+			
+		}	
+		
+		
+
+		.nav-item:hover {
+		border-bottom: 3px solid turquoise;
+		}
+
+		.active-nav {
+		border-bottom: 3px solid turquoise;
+		}
+		.checked {
+		  color: orange;
+		}		
